@@ -1,1 +1,1 @@
-# https://github.com/roseyAI/roseyai.github.io-portfolio/
+# roseyai.github.io-portfolio/
